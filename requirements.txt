@@ -1,5 +1,5 @@
 streamlit==1.16.0
 pandas==1.5.2
 matplotlib==3.6.2
-nump==1.23.5
+numpy==1.23.5
 pydeck==0.8.0
